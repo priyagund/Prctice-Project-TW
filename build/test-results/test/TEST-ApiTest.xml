@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ApiTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-21T09:30:32" hostname="Priyankas-MacBook-Pro.local" time="1.462">
+  <properties/>
+  <testcase name="getUserDetailsTest" classname="ApiTest" time="1.462"/>
+  <system-out><![CDATA[{
+    "data": {
+        "id": 2,
+        "email": "janet.weaver@reqres.in",
+        "first_name": "Janet",
+        "last_name": "Weaver",
+        "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+    }
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
